@@ -5,7 +5,7 @@ const CONFIG = {
 
     mapsUrl: "https://www.google.com/maps/place/CENTRO+NEUROL%C3%93GICO+%22VIRGEN+DE+YAUCA%22+E.I.R.L/@-9.5343287,-77.5304988,21z/data=!4m6!3m5!1s0x91a90d1ec499490b:0x46e0069f871e7a57!8m2!3d-9.5342485!4d-77.5303566!16s%2Fg%2F11n80zgh2l?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
 
-    mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d245.91906939600833!2d-77.5304988!3d-9.5343287!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90d1ec499490b%3A0x46e0069f871e7a57!2sCENTRO%20NEUROL%C3%93GICO%20%22VIRGEN%20DE%20YAUCA%22%20E.I.R.L!5e0!3m2!1ses!2spe!4v1794648913492!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin",
+    mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.7060353843203!2d-77.53035659999999!3d-9.5342485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90d1ec499490b%3A0x46e0069f871e7a57!2sCENTRO%20NEUROL%C3%93GICO%20%22VIRGEN%20DE%20YAUCA%22%20E.I.R.L!5e0!3m2!1ses!2spe!4v1794656348245!5m2!1ses!2spe",
 
     linkedinUrl: "https://www.linkedin.com/in/rubi%C3%B1os-casavilca-quispe-72315186/"
 };
