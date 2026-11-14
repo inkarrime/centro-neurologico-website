@@ -756,3 +756,35 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .faq__item summary::after { right: 18px; }
   .faq__item p { padding: 0 18px 18px; }
 }
+
+@media (max-width: 900px) {
+  .schedule-card {
+    left: 0;
+    right: 0;
+    margin-inline: auto;
+    width: max-content;
+    max-width: calc(100% - 32px);
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .trust {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+    padding-top: 24px;
+  }
+  .trust__item {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+    padding: 0 8px;
+    text-align: center;
+  }
+  .trust__item + .trust__item { border-left: 1px solid var(--beige); }
+  .trust__value { font-size: 20px; line-height: 1.2; }
+  .trust__label { font-size: 12px; line-height: 1.35; text-align: center; }
+}
