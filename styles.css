@@ -157,11 +157,12 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  height: var(--header-h);
+  padding-top: var(--gutter);
+  padding-bottom: var(--gutter);
 }
 
 .brand { display: inline-flex; align-items: center; gap: 12px; }
-.brand__logo { width: 57px; height: 48px; flex: none; }
+.brand__logo { width: 72px; flex: none; }
 .brand__text { display: flex; flex-direction: column; gap: 2px; }
 .brand__eyebrow {
   font-size: 10px;
